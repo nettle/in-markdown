@@ -1,3 +1,4 @@
 # Markdown
 
-[module](docs/module.md)
+* [docs](docs)
+* [module](docs/module.md)
